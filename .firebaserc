@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "chat-app-7616f": {
+      "hosting": {
+        "chat-app": [
+          "chat-app-7616f"
+        ]
+      }
+    }
+  }
+}
